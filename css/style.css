@@ -572,7 +572,7 @@ a:focus {
   background-color: rgba(228, 234, 234, 0.9);
 }
 
-.portfolio_section .portfolio_container .img-box::before {
+.portfolio_section .portfolio_container .img-box::before .iframe {
   content: "";
   position: absolute;
   width: 100%;
