@@ -100,7 +100,7 @@ body {
 
 .sub_page .header_section {
   position: relative;
-  background-color: #ffc000;
+  /* background-color: #ffc000; */
 }
 
 .sub_page .header_section .custom_menu-btn span {
